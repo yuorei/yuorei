@@ -1,6 +1,6 @@
 # yuorei's GitHub
 
-## My profile Page is [here](https://yuorei.github.io/)
+## My profile Page is [here](https://yuorei.com/)
 
 <!--
 **yuorei/yuorei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
